@@ -12,4 +12,5 @@ _Please note this list of members is tentative and subject to change as students
 - Ethan R.
 - Kohta S.
 - Yosef S.
+- Sam S.
 
