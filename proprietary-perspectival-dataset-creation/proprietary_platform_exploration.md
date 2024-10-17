@@ -4,6 +4,8 @@
     - Very long and complicated.
     - In short, data on baseballsavant is allowed for all non-commercial use. 
     - Data is easily downloadable, and they even offer an API.
+    - https://baseballsavant.mlb.com/csv-docs: Baseball Savant even offers an easily accessible guide to reading csvs from their site.
+    - https://baseballsavant.mlb.com/statcast_search: This search tool allows users to query data based on their criteria and download results in csv
 
 - Part 2 Step 1:
     - ![images](images/images.png)
