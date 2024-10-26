@@ -17,3 +17,5 @@ This gives a wide but manageable list of players their range of success in each 
 ### Content Description
 
 ### Responsibility & Contribution
+- Yosef: Coding part
+- Nick: Writing
