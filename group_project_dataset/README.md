@@ -38,4 +38,4 @@ All of these stats can be used to see how well a certain player is performing an
 ### Responsibility & Contribution
 - Yosef: Collecting data, coding
 - Nick: Writing
-- Ethan: Editing / Writing - Would have had him commit it but he is having issues to commit things to the group github.
+- Ethan: Editing / Writing 
