@@ -10,10 +10,11 @@ What meaning is the data collected now? What impact does it have?
 ### Scope
 This dataset is built off of a selection of 12 statistics from players with over 100 Plate appearances.  
 This gives a wide but manageable list of players their range of success in each of these statistics.
+We plan to expand the scope to include sports betting and gambling data; we will make observations regarding the collection methods, meaning, and consumption of baseball statistics and how they have changed over time in relation to the rise of sports gambling.
 
 ## Documentation
 ### Process & Choices
-Originally there were plans to try and webscrape the desired data but due to some cites not allowing webscraping and others requiring it to be done in specific ways, it wasn't worth it. Due to not being able to webscrape on certain sites, we went looking into other sites and eventually found that baseballsavant.mlb.com had a custom leaderboard generator that you could export to a csv. Our goal was to then get the stats of players with over 100 plate appearances (Pa) so there would be a fair amount of data behind each player and to exclude the extremely low end of appearances.
+Originally there were plans to scrape the desired data, however most websites that we identified do not allow webscraping without strict regulations and limited use-cases. Due to not being able to webscrape on certain sites, we went looking into other sites and eventually found that baseballsavant.mlb.com had a tool that allowed for easy data collection; the tool allows the user to filter players, games, and teams with certain parameters and export the data to csv format. To start, our goal was to get the statistics of players with over 100 plate appearances (Pa), so there would be a fair amount of data behind each player and to exclude the extremely low end of appearances. If deemed necessary, we can easily collect more data.
 
 
 ### Content Description
@@ -32,8 +33,9 @@ Avg Hyper Speed = Indicates players average speed on balls hit with extreme forc
 Whiff % = % of a player's swings that completely miss the ball. High % indicates a swing-and-miss issue or an aggressive batting approach.  
 Swing % = The % of pitches a player swings at. Shows their level of aggressiveness at the plate.  
 
-All of these stats can be used to see how well a certain player is performing and what his strengths and weaknesses are. This can allow for people to make educated bets when sports betting.  
+All of these stats can be used to see how well a certain player is performing and what his strengths and weaknesses are. This can allow for people to make educated bets when sports betting. We made sure to include statistics from the new Statcast tool, which uses high-fidelity sensors to make accurate measurements regarding ball speed, batting angles, and many other quantifications. We plan to use these modern statistics in conjunction with older, historic baseball statistics to identify changes over time. 
 
 ### Responsibility & Contribution
-- Yosef: Coding part
+- Yosef: Collecting data, coding
 - Nick: Writing
+- Ethan: Editing / Writing - Would have had him commit it but he is having issues to commit things to the group github.
