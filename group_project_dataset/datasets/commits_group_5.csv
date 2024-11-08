@@ -1,0 +1,31 @@
+oid,message,committedDate,additions,deletions,changedFiles,login
+9b00ab83a1336e9438ec860b2efc3d5bfba2ce8a,Update README.md,2024-09-03T20:32:45Z,1,1,1,yosefstifanos
+6f100c1ea32a98818972eb1321f36b29004b1f4b,Update README.md,2024-10-26T18:26:35Z,3,1,1,yosefstifanos
+2ff77fc494fc85ad8d821cfe33258f029433a185,Update Group Document.md,2024-09-10T19:48:56Z,3,1,1,yosefstifanos
+2ac57cd3f00cfbb5232580673f561a1d052edce9,Create Group Document.md,2024-09-10T19:48:43Z,1,0,1,yosefstifanos
+8e11befcfec2d966e8480b1021e7a84b999dac01,??,2024-10-29T19:49:52Z,1,1,1,esr27
+f87391d75a4feb728c1af6e83229598abbbd85ba,finished dataset & README,2024-10-29T00:27:42Z,5,3,1,OctaneCodes
+37ed2e21e2d037b9f3f7cd7e37f3b3a70fd15365,readme filled out,2024-10-28T16:34:02Z,19,1,1,OctaneCodes
+9823322abca098417d28d0f739fa2150cf6da7a5,start of dataset,2024-10-22T16:44:32Z,26,0,2,OctaneCodes
+b3cbedd129048a2cc9039f9bcdbc680c97353a96,Week 4 Group Project,2024-09-23T15:48:23Z,69,0,1,OctaneCodes
+2de059f8457fe96a2640fa97779032db24eaabc9,Updated Group Doucment + Created Project proposal,2024-09-22T22:17:43Z,98,0,2,OctaneCodes
+5f6871a30682de4d2af0804b4722eb32a8d0ab25,updated notebook,2024-10-26T18:23:28Z,617,891,2,yosefstifanos
+5da9b5930a7be8943f3cd9538e33a66341387b4c,Submission of analysis with both CSV's,2024-10-26T18:07:29Z,1,8,1,yosefstifanos
+35a4a93da2fc41bc0616442bf3585cb2f33375a7,Submission of Analysis and CSV,2024-10-26T18:04:45Z,2221,0,3,yosefstifanos
+5c3f00bb86c297ea99badbd74b9abb2a0ddf5c95,Added more Terms of Use,2024-10-17T18:56:16Z,2,0,1,yosefstifanos
+cc1812d3496316aa41b7e11708df8877ad0befa7,Added more info for Terms of Use on proprietary platform MD,2024-10-17T18:46:17Z,3,1,2,yosefstifanos
+0b408e696c961a2f324a37fc9fa6e432ba500aa6,Proprietary & Perspectival Dataset Creation,2024-10-08T20:04:15Z,721,0,7,yosefstifanos
+db481f6266f2275009388e802ed7b7e7663668bb,"Delete group_project_dataset/dataset_ver1.py
+
+placeholder being replaced",2024-10-26T17:03:51Z,0,7,1,OctaneCodes
+2bcfbbd6b74ab57bdb2cd23945e22c25ee0ca5e1,"Merge pull request #3 from CultureAsData-UIUC/project-proposal-feedback
+
+Initial project proposal feedback",2024-10-01T18:38:09Z,15,0,1,OctaneCodes
+0825472ee550793812e4f098ccebe87d3bbdb647,Deleted proprietary-perspectival-dataset-creation/images/.DS_Store,2024-10-22T18:59:54Z,0,0,1,jasonmorris8
+7dab40d0f9bcd323512484adaf18d9718e56d3e2,Deleted proprietary-perspectival-dataset-creation/.DS_Store,2024-10-22T18:59:39Z,0,0,1,jasonmorris8
+9e927ae4870ddc37994a27fd47a8800f63e4c085,added gitignore,2024-10-22T18:58:41Z,1,0,1,jasonmorris8
+a9baec2bc8f76f85377fd797fa65a69067ff0bb3,added column,2024-10-22T18:53:04Z,58,29,1,jasonmorris8
+8f602bbeb63645130d15f510ae8dbc5f71b19609,Added column to df,2024-10-22T18:49:40Z,25,25,1,jasonmorris8
+b34df8705137546c74033f726a9ac9b2ef51a319,"Merge pull request #1 from CultureAsData-UIUC/adding-project-management-workflow
+
+Added project management workflow issue template",2024-09-10T19:42:10Z,41,0,2,jasonmorris8
