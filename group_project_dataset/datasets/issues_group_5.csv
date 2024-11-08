@@ -1,0 +1,117 @@
+html_url,issue_status_on_project_board,title,created_at,content.body,user.login,state,body,updated_at,closed_at,assignee,assignees,labels,milestone,draft,comments,state_reason,closed_by.login,reactions.total_count,pull_request.url,assignees_logins,issue_duration,issue_associated_with_pull_request
+,Todo,Start scraping data,2024-09-23 15:57:08+00:00,,OctaneCodes,,,,,,,,,,,,,,,,,False
+,Todo,format previous week's md files,2024-09-24 19:26:38+00:00,,OctaneCodes,,,,,,,,,,,,,,,,,False
+,Done,Initial project proposal,2024-09-23 15:57:24+00:00,,OctaneCodes,,,,,,,,,,,,,,,,,False
+,Done,Group assignment from week 4,2024-09-23 15:57:43+00:00,,OctaneCodes,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-5/issues/5,,[Weekly Report] Project Manager for {3},2024-10-11 21:46:33+00:00,,yosefstifanos,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+Project Manager Weekly Report
+
+Weekly Checklist
+
+- [x] Created a weekly report for the group project
+- [x] Updated the project board
+- [x] Checked in with team members
+- [x] Assigned tasks for the upcoming week
+- [x] Close issue once the weekly tasks are completed
+
+Weekly Summary:
+What were the goals for this week for the group project?
+- Find a new data source that allows scraping, as baseball-reference was against the terms of service
+- Identify tools for web scraping
+- Create a more concrete definition of the digital object we're studying
+
+What has been accomplished?
+- Identified the Baseball Savant API as a potential data source
+- Found an open-source project for scraping baseball websites' data
+- Defined our digital object: The record and cultural impact of a baseball game
+- Created a sample dataset of player statistics for 2024 (as seen in player-stats-2024.csv)
+
+Any problems or issues that need resolving?
+- The open-source project we found provides resources for scraping baseball-reference, which may not be legal. We need to investigate the legality of this approach.
+- We need to ensure that using Baseball Savant is within the terms of service for our project.
+
+Next Week's Goals:
+What are the goals for the upcoming week?
+- Identify a legal method to obtain historical baseball data
+- Begin the web scraping process on Baseball Savant
+- Create a format for the scraped data and begin putting it into a database for analysis
+- Explore the possibility of creating more comprehensive datasets, similar to the player-stats-2024.csv file
+
+Who is assigned to what tasks?
+- Web scraping, formatting, database: Nick, Yosef, Ethan
+- Identifying sources, cross-referencing information to ensure accuracy, identifying more sources (other historical leagues?): Jason, Kohta, Sam
+
+Notes/Additional Information:
+- We've successfully created a sample dataset (player-stats-2024.csv) that includes various player statistics and a subjective ""Like"" column. This can serve as a template for our future data collection and analysis.
+- We need to be cautious about the legal implications of web scraping and ensure we're following the terms of service for any data sources we use.
+- The team should consider how to expand on the current dataset, possibly including more historical data or additional metrics that could be relevant to analyzing the cultural impact of baseball games.
+- We may want to explore creating data visualizations or analysis tools using the collected data, as demonstrated in the Jupyter notebook (player-stats-2024.csv_steps.ipynb).
+- MORE COMMUNICATION! We are dead quiet which each other. Start talking more and responding. A couple of you do not engage in activity or work at all, from what I can see at least. Talk more, communicate, and share ideas. ",2024-10-11 22:01:20+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-5/issues/4,,[Weekly Report] Project Manager for {2},2024-10-03 19:09:40+00:00,,esr27,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [✓ ] Created a weekly report for the group project
+- [✓] Updated the project board
+- [✓] Checked in with team members
+- [✓] Assigned tasks for the upcoming week
+- [✓] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+    -Instructor feedback told us that scraping from baseball-reference was against the terms of service, so we needed to find a source that contains the historical information that we need, but also allows scraping.
+    -Find tools for webscraping
+    -Create a more concrete definition of the digital object that we are studying.
+- What has been accomplished?
+    -Identified the baseball savant API. 
+    -Found an open source project for scraping baseball websites' data.
+    -Identified our particular digital object: The record and cultural impact of a baseball game.
+- Any problems or issues that need resolving?
+    -The open source project that we found provides resources for scraping baseball-reference.... We need to investigate the legality.
+         
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+      -Identify a LEGAL method to get historical baseball data. 
+     -Begin the web scraping process on baseball-savant.
+     -Create a format for the scraped data, begin putting it into a database for analysis
+- Who is assigned to what tasks?
+    -Nick, Yosef, Ethan -- Web scraping, formatting, database
+    -Jason, Kohta, Sam -- Identifying sources, cross reference information to ensure accuracy. Identify more sources (other historical leagues?)
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-03 19:09:40+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-5/issues/2,,[Weekly Report] Project Manager for {1},2024-09-23 15:58:52+00:00,,OctaneCodes,closed,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [x] Created a weekly report for the group project
+- [x] Updated the project board
+- [x] Checked in with team members
+- [x] Assigned tasks for the upcoming week
+- [x] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+- Finally pushed The initial project proposal
+- Completed the group assignment.
+- Fixed prior group document to be more than a link to a google doc.
+
+
+## Next Week's Goals:
+- Start scraping data for database
+- Potentially start to use the projects board over discord for job delegation.
+
+## Notes/Additional Information:
+- Everyone worked towards the group assignment. Split the group of 6 into 2 for part 1 and two. Each person contributed to the questions in their section. Only I pushed it for simplicity.
+",2024-09-23 15:59:34+00:00,2024-09-23 15:59:34+00:00,,[],[],,,0.0,completed,OctaneCodes,0.0,,,0.0,False
