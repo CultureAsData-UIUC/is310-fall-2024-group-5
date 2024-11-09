@@ -2,7 +2,9 @@
 
 <h2>Section One -- Computational Methods and Cultural Data Types</h2>
 
-[WE NEED TO DEFINE WHAT WE THINK A COMPUTATIONAL METHOD IS AND WHAT A CULTURAL DATA TYPE IS.]
+Yosef:
+- A computational method is a systematic approach or algorithm that processes data through mathematical and logical operations using computers.
+- A cultural data type refers to any form of data that captures or represents cultural expressions, practices, or artifacts.
 
 <h3>Computational Methods</h3>
 <ul>
