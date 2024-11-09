@@ -5,7 +5,10 @@ Our group’s primary focus will be analyzing baseball statistics to uncover tre
     
 Has it changed how people consume the sport? Hyper-analyzing?  
 Sports gambling has become a huge focus.  
-What meaning is the data collected now? What impact does it have?  
+What meaning is the data collected now? What impact does it have?
+
+## Where we got our data
+Our group collected our data from https://baseballsavant.mlb.com/; where we can download the CSV file of any filtered list. Essentially, if you wanted to only take a look at the best batters and nothing else, you are able to filter that out and then be able to download the CSV straight away.
 
 ### Scope
 This dataset is built off of a selection of 12 statistics from players with over 100 Plate appearances.  
