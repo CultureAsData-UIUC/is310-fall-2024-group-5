@@ -21,7 +21,7 @@
 </ul>
 
 
-<h3>Ethan: Time Series Regression Analysis and Gambling Records</h3>
+<h3>Time Series Regression Analysis and Gambling Records</h3>
 <ul>
     <li>First, I found an article written by <a href="https://www.gla.ac.uk/schools/socialpolitical/staff/heatherwardle/">Heather Wardle</a>, a social scientist with over twenty years of experience in the field, leading the British Gambling Prevalence Survey and co-director of Gambling Research Glasgow. She specializes in understanding how technological infrastructure creates risks and opportunities regarding gambling behaviors.
     TO BE FINISHED. https://www.ncbi.nlm.nih.gov/books/NBK576910/</li>
