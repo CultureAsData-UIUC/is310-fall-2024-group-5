@@ -47,3 +47,27 @@ Kohta
   - **Cultural Insight**: The model illustrates baseball as a blend of skill, data, and tradition. It highlights society’s appreciation for statistical milestones and achievements, reflecting how data-driven forecasting can deepen public engagement and understanding of the sport. 
 
 
+# 
+Nick  
+
+## Bibliographic Information
+Quantifying Women's Marginalisation in Ibero-American Film Culture During the First Half of the Twentieth Century: A Network Science Proposal  
+Authors: Ainamar Clariana-Rodagut & Alessio Cardillo  
+Publish Date: July 18th, 2024  
+https://culturalanalytics.org/article/118589-quantifying-women-s-marginalisation-in-ibero-american-film-culture-during-the-first-half-of-the-twentieth-century-a-network-science-proposal  
+
+## Method / Data Description
+The study uses Network sciences, specifically social network analysis (SNA) to assess and measure the marginalization of women in the early 20th-century Ibero-American film industry. SNA was used to create quantifiable influence and connectivity of women in film networks and to be able to create visuals to highlight the gender disparities within the cultural production space.  
+
+The data that interacts with SNA converts the data points into an entity which is often visualized as a node. This node is then connected to other nodes by edges (relationships). The data transormation is the conversion of raw data into a map of interconnecting nodes with various relationships that visually and mathematically represents these relationships. You can use metrics like centrality, density, and clustering to calculate what nodes are influential or marginalized within the network as a whole showing patterns of inclusion or exclusion.  
+
+Sadly the data used is not publically available. Within the study they note that they have a fair amount of the sources relating to relationships but still dont have all of the records of potential relationships. They do not have a source for every single event to have happened. Due to them using a large amount of sources, they constantly verifying the data gathered to prevent inconsistencies from happening as much as possible.
+
+## Argument in Scholarship
+Main Argument: Women's participation in the film industry was systematically marginalized, giving them limited access to influentioal positions within the networks.  
+Method Usage: Using SNA, they created a visual of the networks of the film production industry. They used centrality to measure the level of influence nad connections of female participants had in relation to their male couterparts.  
+
+## Interesting Point / Argument for Our Project
+This tought me a way to create a fairly strong data analysis technique to create quantitative data from social networks. It is a useful approach when you are required to approach cultural history. This specific study used Social Network Analysis to create quantitative support for their claim of gender-based marginalization. This can be used to do similar things in other projects related to more social fields of study.  
+
+In terms of using this for our class assignment, I dont truly think it is that useful for our research unless we want to focus on what teams or positions have the best at specific stats. You could use SNA to create clusters players by team or position to show how well they are doing at specific stats. I think there may be better options. I picked this article knowing this because SNA interested me enough.
