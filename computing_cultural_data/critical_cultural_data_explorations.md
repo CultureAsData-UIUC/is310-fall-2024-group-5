@@ -12,6 +12,10 @@ Yosef:
     <ul>
       <li>A method for examining historical data to identify patterns over time.</li>
     </ul>
+  <li>Predictive Modeling
+    <ul>
+      <li>A method uses past data to predict future results.</li>
+    <ul>
 </ul>
 
 <h3>Cultural Data Types</h3>
@@ -20,6 +24,10 @@ Yosef:
         <ul>
             <li> Records and statistics regarding rates of gambling, specifically in baseball</li>
         </ul>
+    <li>Baseball Statistics</li>
+        <ul>
+            <li>Team and player statistics in baseball.</li>
+        <ul>
 </ul>
 
 
@@ -71,3 +79,30 @@ Method Usage: Using SNA, they created a visual of the networks of the film produ
 This tought me a way to create a fairly strong data analysis technique to create quantitative data from social networks. It is a useful approach when you are required to approach cultural history. This specific study used Social Network Analysis to create quantitative support for their claim of gender-based marginalization. This can be used to do similar things in other projects related to more social fields of study. I would categorize it as part of the Computational Social Sciences.  
 
 In terms of using this for our class assignment, I dont truly think it is that useful for our research unless we want to focus on what teams or positions have the best at specific stats. You could use SNA to create clusters players by team or position to show how well they are doing at specific stats. I think there may be better options. I picked this article knowing this because SNA interested me enough.
+
+#
+Jason
+
+## Bibliographic Information 
+Article Title: Explorations in Baseball Analytics: Simulations, Predictions, and
+Evaluations for Games and Players
+Publisher: University of Wisconsin Milwaukee
+Author: Katelyn Mongerson
+Publish Date: May 2023
+https://dc.uwm.edu/cgi/viewcontent.cgi?article=4197&context=etd 
+
+## Method / Data Description
+This article describes how baseball statistics have grown throughout the years and presents five different predictive simulations/models that predict future results.
+The first coding simulation is called a Run Expectancy Matrix. The purpose of it is to improve decision making from a baseball team. It uses past results to show the expected runs(runs is what points are called in baseball) based on the current situation of the game. The author uses this example in the article, "For example, when there is a runner on first with 1 out, the average team would score .51 runs by the end of the inning." This number was found by taking the average number runs scored in an inning after this situation occurs. Baseball teams can use this to know what positions to put their team in for the best results, this can work if they are the team batting, or the team playing defense.
+
+The next simulation is called The Nine Player Monte Carlo Simulation. This simulation works by taking data from a team's particular seasons meaning all of their hits, errors, walks, and strikeouts; it then runs this data through simulation which can be ran as many times as you want, and calculates the average number runs per game that team would score with those statistics. The author uses an example of the statistics from the Milwaukee Brewers during the 2022 season. She simulated their average runs per game 10,000 times and it returned that the Brewers average runs per game 4.66 which was very close to their actual number of runs per game that season with 4.48.
+
+The other three simulations were a little more complicated to describe for people that are not baseball savants, so I will keep my analysis to these two simulations.
+
+## Argument in Scholarship
+The article works to present how baseball can be statistically analyzed using coding simulations. The author compares real-life results and results of the simulations to show how accurate the predictions are. 
+
+## Interesting Point
+This article taught me many ways to use statistics as a way of predicting future results. It can be useful for managers of baseball teams to look at, to assess the performance of players and use their players' statistics to predict if the team will be successful. I would categorize this as Computational Data Science in the sports field.
+
+We can use these models as a basis for what can be created using baseball statistics. We can also alter these models and imporve them to create more accurate predictions. The author describes different way that these simulations could be improved in the Future Work section of her paper.
