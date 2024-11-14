@@ -49,8 +49,15 @@ Mandadapu, P. (2024). The Evolution of Football Betting: A Machine Learning Appr
 - **Context:** The paper's abstract states: "Over the past six decades, both industries [gambling and football data gathering] have undergone radical transformations, with data collection methods evolving from rudimentary notetaking to sophisticated technologies such as high-definition cameras and Artificial Intelligence (AI)-driven analytics"
 
 ## 3. Argument in Scholarship
-- Currently, the gambling industry relies both on data-driven insights, as well as human expert judgment. The author argues that, due to the drastic increase in data collection in the sports industry, there is potential for a shift in how betting odds are set. Rather than relying on expert judgment, the author proposes several different models that predict game and player outcomes, which are to be used in setting betting odds. The author theorizes that the odds created using the machine learning models are better than those made by humans. If this is true, it reframes the entire industry; it is no longer based on human 'hunches', 'intuitition', or 'instinct', but rather purely data-driven.
+- **Context**: Currently, the gambling industry relies both on data-driven insights, as well as human expert judgment. The author argues that, due to the drastic increase in data collection in the sports industry, there is potential for a shift in how betting odds are set. Rather than relying on expert judgment, the author proposes several different models that predict game and player outcomes, which are to be used in setting betting odds. 
+- **Interesting Insight:** The author theorizes that the odds created using the machine learning models are better than those made by humans. If this is true, it reframes the entire industry; it is no longer based on subjective human 'hunches', 'intuitition', or 'instinct', but rather purely data-driven.
 
+## 4. Code/Data
+- **Data:** The author scraped several years worth of football data from fbref. They extracted data on 20 teams and 380 games and formatted it into a database. Then, they cleaned the data, removing irrelevant variables, as well as recoding some features to be more compatible with machine learning models. 
+- **Computation:** First, they identified key features using Recursive Feature Elimination. Then, they utilized several different models from the sklearn python library. After analysing the results, they identified the best model to be Support Vector Machine (SVM). 
+
+## 5. Relevance
+- Our project's main theme is how increased collection of data in baseball has changed how the sport is consumed; most notably, in parallel, there has been an increase in data collection and an increase in gambling rates. This article shows that, with the huge amount of data available, machine learning models can, and probably will be used in the industry, both by fans and those that set betting odds. In my opinion, this is a cataclysmic shift from subjective viewer enjoyment to objective scrutiny.
 
 # Baseball Physics Analysis with Computational Modeling and Cultural Data
 Kohta
