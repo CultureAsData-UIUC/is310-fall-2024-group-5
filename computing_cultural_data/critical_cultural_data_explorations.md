@@ -59,26 +59,30 @@ Kohta
 Nick  
 
 ## Bibliographic Information
-Quantifying Women's Marginalisation in Ibero-American Film Culture During the First Half of the Twentieth Century: A Network Science Proposal  
-Authors: Ainamar Clariana-Rodagut & Alessio Cardillo  
-Publish Date: July 18th, 2024  
-https://culturalanalytics.org/article/118589-quantifying-women-s-marginalisation-in-ibero-american-film-culture-during-the-first-half-of-the-twentieth-century-a-network-science-proposal  
+Bayesian models for prediction of the set-difference in volleyball  
+Authors: Ioannis Ntzoufras, Vasilis Palaskas, Sotiris Drikos  
+Publish Date: November 11th, 2019  
+https://stat.paperswithcode.com/paper/bayesian-models-for-prediction-of-the-set  
 
 ## Method / Data Description
-The study uses Network sciences, specifically social network analysis (SNA) to assess and measure the marginalization of women in the early 20th-century Ibero-American film industry. SNA was used to create quantifiable influence and connectivity of women in film networks and to be able to create visuals to highlight the gender disparities within the cultural production space.  
+Bayesian analysis is a type of statistical method that applies Bayes' theorem to update the probability of a prediction as more data becomes available. Bayes' theorem is a mathematical formula used to predict conditional probabilities. Bayesian analysis will take in the current data and make predictions for stats in our case and continue to update them as new data is produced from new games.  
 
-The data that interacts with SNA converts the data points into an entity which is often visualized as a node. This node is then connected to other nodes by edges (relationships). The data transormation is the conversion of raw data into a map of interconnecting nodes with various relationships that visually and mathematically represents these relationships. You can use metrics like centrality, density, and clustering to calculate what nodes are influential or marginalized within the network as a whole showing patterns of inclusion or exclusion.  
+It shows prior probability of the data we currently have, the likelihood of certain things happening giving the current data, and post-addtional data probability after recieving new data.  
 
-Sadly the data used is not publically available. Within the study they note that they have a fair amount of the sources relating to relationships but still dont have all of the records of potential relationships. They do not have a source for every single event to have happened. Due to them using a large amount of sources, they constantly verifying the data gathered to prevent inconsistencies from happening as much as possible.
+For gambling, Bayesian analysis is commonly used for forecasting / risk assesment and decision-making under uncertainty. This can help gamblers decide on who and what they bet on.  
+
+Code is available here:  
+https://github.com/Vasilis-Palaskas/Bayesian-Models-for-Prediction-of-the-Set-Difference-in-Volleyball  
 
 ## Argument in Scholarship
-Main Argument: Women's participation in the film industry was systematically marginalized, giving them limited access to influentioal positions within the networks.  
-Method Usage: Using SNA, they created a visual of the networks of the film production industry. They used centrality to measure the level of influence nad connections of female participants had in relation to their male couterparts.  
+Main Argument: The project I found was attempting to create a Bayesian analysis model for volleyball as you cannot use the more standard match outcome calculations due to its outcomes being decided by a set-difference compared to goals or points scored in soccer or football. 
+
+Method Usage: Introduced two model types to analyze volleyball set differences: an ordered multinomial logistic regression model and a tailored version of the Skellam distribution which is typically used for other sports. The modified Skellam model was changed to count by sets for volleyball. Both models are evaluated though a Bayesian framework paired with Markov Chain Monte Carlo (MCMC) simulations for predictions.  
 
 ## Interesting Point / Argument for Our Project
-This tought me a way to create a fairly strong data analysis technique to create quantitative data from social networks. It is a useful approach when you are required to approach cultural history. This specific study used Social Network Analysis to create quantitative support for their claim of gender-based marginalization. This can be used to do similar things in other projects related to more social fields of study. I would categorize it as part of the Computational Social Sciences.  
+Baye's theorem isnt that complicated but provides bountiful information from it. Especially when you pair with an additional prediction modeling system like the MCMC simulations.  
 
-In terms of using this for our class assignment, I dont truly think it is that useful for our research unless we want to focus on what teams or positions have the best at specific stats. You could use SNA to create clusters players by team or position to show how well they are doing at specific stats. I think there may be better options. I picked this article knowing this because SNA interested me enough.
+Being able to take our current data and create current predictions and keep the predictions accurate by adding additional data into the predictions is very useful for sports data that people like to bet on. This would provide a better of an educated guess than a person just picking purely off historic stats. We would be attempting to forecast the future stats of a player compared to just guessing.  
 
 #
 Jason
