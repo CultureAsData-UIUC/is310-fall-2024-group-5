@@ -5,37 +5,52 @@
 Yosef:
 - A computational method is a systematic approach or algorithm that processes data through mathematical and logical operations using computers.
 - A cultural data type refers to any form of data that captures or represents cultural expressions, practices, or artifacts.
-
 <h3>Computational Methods</h3>
 <ul>
-  <li>Time Series Regression Analysis</li>
+  <li>Machine Learning
     <ul>
-      <li>A method for examining historical data to identify patterns over time.</li>
+      <li>Employs various models to both classify historical data and predict future results.</li>
     </ul>
+  </li>
   <li>Predictive Modeling
     <ul>
-      <li>A method uses past data to predict future results.</li>
-    <ul>
+      <li>A method that uses past data to predict future results.</li>
+    </ul>
+  </li>
 </ul>
 
 <h3>Cultural Data Types</h3>
 <ul>
-    <li>Gambling Records</li>
-        <ul>
-            <li> Records and statistics regarding rates of gambling, specifically in baseball</li>
-        </ul>
-    <li>Baseball Statistics</li>
-        <ul>
-            <li>Team and player statistics in baseball.</li>
-        <ul>
+  <li>Gambling Records
+    <ul>
+      <li>Records and statistics regarding rates of gambling, specifically in football.</li>
+    </ul>
+  </li>
+  <li>Baseball Statistics
+    <ul>
+      <li>Team and player statistics in baseball.</li>
+    </ul>
+  </li>
 </ul>
 
 
-<h3>Time Series Regression Analysis and Gambling Records</h3>
-<ul>
-    <li>First, I found an article written by <a href="https://www.gla.ac.uk/schools/socialpolitical/staff/heatherwardle/">Heather Wardle</a>, a social scientist with over twenty years of experience in the field, leading the British Gambling Prevalence Survey and co-director of Gambling Research Glasgow. She specializes in understanding how technological infrastructure creates risks and opportunities regarding gambling behaviors.
-    TO BE FINISHED. https://www.ncbi.nlm.nih.gov/books/NBK576910/</li>
-</ul>
+
+# 1. Time Series Regression Analysis and Gambling Records - Ethan
+### Bibliographic Information
+
+Mandadapu, P. (2024). The Evolution of Football Betting: A Machine Learning Approach to Match Outcome Forecasting and Bookmaker Odds Estimation.https://doi.org/10.48550/arXiv.2403.16282
+
+## Computational Method: Machine Learning
+- **Description:** Machine learning covers a wide category of models that aim to classify or make predictions based on existing data. This article employs several different models, including K-Nearest Neighbors, Gradient Boosting, Support Vector Machine, and Random Forest Classifier. Each of these models have slightly different applications, purposes, and use-cases.
+- **Context:** This paper explores how these models might be used to set 'odds' for gambling platforms based on the performance of teams and players in the past. Additionally, the author attempts to identify which, of many, variables are most important in making predictions. 
+
+## 2. Data Type: Football Gambling Data
+- **Description:** The author looks both at past gambling odds and past performance data. This includes hundreds of variables regarding outcomes of games and individual player's behavior.
+- **Context:** The paper's abstract states: "Over the past six decades, both industries [gambling and football data gathering] have undergone radical transformations, with data collection methods evolving from rudimentary notetaking to sophisticated technologies such as high-definition cameras and Artificial Intelligence (AI)-driven analytics"
+
+## 3. Argument in Scholarship
+- Currently, the gambling industry relies both on data-driven insights, as well as human expert judgment. The author argues that, due to the drastic increase in data collection in the sports industry, there is potential for a shift in how betting odds are set. Rather than relying on expert judgment, the author proposes several different models that predict game and player outcomes, which are to be used in setting betting odds. The author theorizes that the odds created using the machine learning models are better than those made by humans. If this is true, it reframes the entire industry; it is no longer based on human 'hunches', 'intuitition', or 'instinct', but rather purely data-driven.
+
 
 # Baseball Physics Analysis with Computational Modeling and Cultural Data
 Kohta
