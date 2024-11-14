@@ -132,3 +132,6 @@ The article works to present how baseball can be statistically analyzed using co
 This article taught me many ways to use statistics as a way of predicting future results. It can be useful for managers of baseball teams to look at, to assess the performance of players and use their players' statistics to predict if the team will be successful. I would categorize this as Computational Data Science in the sports field.
 
 We can use these models as a basis for what can be created using baseball statistics. We can also alter these models and imporve them to create more accurate predictions. The author describes different way that these simulations could be improved in the Future Work section of her paper.
+
+# Conclusion:
+- Much of our scholarly research is comprised of various predictive and categorical models. Therefore, due to the time-series nature of our dataset (we are analysing change over time), we think that such a model is appropriate for our dataset. This is our chosen method. More specifically, a model implementing SVM using sklearn is promising, due to its proven success in modelling using complex football statistics. 
