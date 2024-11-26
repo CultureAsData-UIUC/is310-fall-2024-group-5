@@ -236,6 +236,57 @@ Rk,Tm,W,L,W-L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,ExInn,1Run,vRHP
 7,Philadelphia Phillies,64,89,.418,35.5,126.0,4.4,5.6,-1.2,0.2,-1.0,60-93,4,35-43,29-46,6-5,23-20,48-59,16-30,32-56,32-33
 8,Boston Braves,38,115,.248,61.5,308.0,3.8,5.6,-1.8,0.2,-1.6,50-103,-12,25-50,13-65,1-7,7-31,32-93,6-22,14-73,24-42
 
+1935 NNL 2 
+
+Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
+1,Pittsburgh Crawfords,51,27,3,.654,--,,7.1,5.1,2.0
+2,New York Cubans,31,25,5,.554,9.0,9.0,4.9,4.8,0.1
+3,Philadelphia Stars,37,31,4,.544,9.0,9.0,5.6,6.1,-0.5
+4,Columbus Elite Giants,29,24,2,.547,9.5,10.5,6.2,4.9,1.3
+5,Brooklyn Eagles,32,31,0,.508,11.5,18.5,5.9,5.9,0.1
+
+1940 NNL 2
+
+Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
+1,Homestead Grays,36,20,0,.643,--,,5.9,4.8,1.1
+2,Baltimore Elite Giants,32,23,0,.582,3.5,3.5,6.4,5.5,1.0
+3,Newark Eagles,28,22,1,.560,5.0,6.5,6.8,5.7,1.1
+4,Philadelphia Stars,24,37,0,.393,14.5,39.0,5.1,5.8,-0.7
+5,New York Black Yankees,19,24,0,.442,10.5,23.0,4.5,6.6,-2.1
+6,New York Cubans,13,26,1,.333,14.5,39.0,4.9,5.7,-0.8
+
+1940 NNL
+
+Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
+1,Kansas City Monarchs,36,11,3,.766,--,,6.0,3.7,2.3
+2,Memphis Red Sox,36,26,0,.581,7.5,7.5,4.1,4.6,-0.5
+3,Cleveland Bears,21,18,1,.538,11.0,14.5,5.2,5.1,0.0
+4,St. Louis-New Orleans Stars,25,29,2,.463,14.5,25.0,4.9,5.4,-0.6
+5,Chicago American Giants,22,31,1,.415,17.0,35.0,3.4,5.2,-1.7
+6,Birmingham Black Barons,17,30,0,.362,19.0,45.5,4.2,5.0,-0.8
+7,Toledo/Indianapolis Crawfords,6,18,1,.250,18.5,42.5,3.5,4.0,-0.5
+
+1945 NNL 2
+
+ 
+Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
+1,Homestead Grays,41,21,2,.661,--,,5.4,3.8,1.6
+2,Newark Eagles,27,22,0,.551,7.5,7.5,4.6,5.1,-0.5
+3,Baltimore Elite Giants,36,32,2,.529,8.0,8.5,5.6,5.6,0.0
+4,Philadelphia Stars,25,25,0,.500,10.0,14.5,5.7,4.7,1.0
+5,New York Cubans,15,27,0,.357,16.0,38.5,3.4,4.3,-0.9
+6,New York Black Yankees,11,28,0,.282,18.5,51.0,4.3,6.0,-1.8
+
+1945 NNL
+
+Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
+1,Cleveland Buckeyes,63,17,1,.787,--,,4.9,2.9,2.0
+2,Kansas City Monarchs,52,41,3,.559,17.5,19.0,5.2,4.5,0.7
+3,Birmingham Black Barons,47,33,2,.588,16.0,16.0,4.4,4.9,-0.4
+4,Chicago American Giants,46,54,1,.460,27.0,47.5,5.4,5.5,-0.1
+5,Cincinnati-Indianapolis Clowns,39,56,1,.411,31.5,65.5,3.7,6.3,-2.6
+6,Memphis Red Sox,20,66,2,.233,46.0,138.0,4.4,6.4,-2.0
+
 1935 AL
 Rk,Tm,W,L,W-L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,ExInn,1Run,vRHP,vLHP,≥.500,<.500
 1,Detroit Tigers,93,58,.616,--,,6.0,4.4,1.7,-0.2,1.5,97-54,-4,53-25,40-33,8-6,19-27,69-41,24-17,39-27,54-31
