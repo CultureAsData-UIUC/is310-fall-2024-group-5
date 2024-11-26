@@ -343,7 +343,7 @@ Rk,Tm,W,L,W-L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,ExInn,1Run,vRHP
 7,Philadelphia Phillies,64,89,.418,35.5,126.0,4.4,5.6,-1.2,0.2,-1.0,60-93,4,35-43,29-46,6-5,23-20,48-59,16-30,32-56,32-33
 8,Boston Braves,38,115,.248,61.5,308.0,3.8,5.6,-1.8,0.2,-1.6,50-103,-12,25-50,13-65,1-7,7-31,32-93,6-22,14-73,24-42
 
-1935 NNL 2 
+1935 NNL2 
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Pittsburgh Crawfords,51,27,3,.654,--,,7.1,5.1,2.0
 2,New York Cubans,31,25,5,.554,9.0,9.0,4.9,4.8,0.1
@@ -351,7 +351,7 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 4,Columbus Elite Giants,29,24,2,.547,9.5,10.5,6.2,4.9,1.3
 5,Brooklyn Eagles,32,31,0,.508,11.5,18.5,5.9,5.9,0.1
 
-1940 NNL 2
+1940 NNL2
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Homestead Grays,36,20,0,.643,--,,5.9,4.8,1.1
 2,Baltimore Elite Giants,32,23,0,.582,3.5,3.5,6.4,5.5,1.0
@@ -370,7 +370,7 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 6,Birmingham Black Barons,17,30,0,.362,19.0,45.5,4.2,5.0,-0.8
 7,Toledo/Indianapolis Crawfords,6,18,1,.250,18.5,42.5,3.5,4.0,-0.5
 
-1945 NNL 2
+1945 NNL2
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Homestead Grays,41,21,2,.661,--,,5.4,3.8,1.6
 2,Newark Eagles,27,22,0,.551,7.5,7.5,4.6,5.1,-0.5
