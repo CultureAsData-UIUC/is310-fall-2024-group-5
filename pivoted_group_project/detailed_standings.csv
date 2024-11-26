@@ -1,3 +1,5 @@
+1930 NNL Season:
+Negro National League Detailed Standings
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,St. Louis Stars,69,25,1,.734,--,,7.8,5.0,2.9
 2,Kansas City Monarchs,40,23,0,.635,13.5,13.5,5.8,4.8,1.0
@@ -8,6 +10,8 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 7,Cuban Stars West,25,41,0,.379,30.0,81.0,4.4,4.7,-0.3
 8,Memphis Red Sox,30,51,0,.370,32.5,98.5,4.8,6.2,-1.5
 9,Nashville Elite Giants,26,55,1,.321,36.5,130.5,4.0,6.8,-2.8
+
+1925 NNL Season:
 Negro National League Detailed Standings
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Kansas City Monarchs,59,23,2,.720,--,,5.6,3.6,2.0
@@ -18,16 +22,8 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 6,Memphis Red Sox,34,49,1,.410,25.5,79.0,4.4,5.4,-1.0
 7,Birmingham Black Barons,27,59,1,.314,34.0,130.0,4.9,6.7,-1.8
 8,Indianapolis ABCs,17,53,0,.243,36.0,144.0,4.6,7.8,-3.2
-Eastern Colored League Detailed Standings
-Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
-1,Hilldale Club,53,18,1,.746,--,,6.5,4.5,2.1
-2,Harrisburg Giants,48,24,1,.667,5.5,5.5,6.8,5.2,1.5
-3,Baltimore Black Sox,33,31,2,.516,16.5,27.5,5.1,5.0,0.2
-4,Atlantic City Bacharach Giants,36,38,2,.486,18.5,33.5,4.8,5.0,-0.1
-5,Brooklyn Royal Giants,14,20,1,.412,20.5,41.5,5.2,4.9,0.3
-6,Cuban Stars East,18,26,1,.409,21.5,46.5,5.0,5.5,-0.5
-7,Wilmington Potomacs,10,21,2,.323,23.0,55.5,5.3,6.3,-1.1
-8,New York Lincoln Giants,7,41,2,.146,34.5,136.0,4.6,8.8,-4.3
+
+1920 NNL Season:
 Negro National League Detailed Standings
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Chicago American Giants,43,17,2,.717,--,,5.0,3.2,1.8
@@ -38,6 +34,8 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 6,St. Louis Giants,32,40,0,.444,17.0,47.0,3.9,4.7,-0.8
 7,Dayton Marcos,16,36,0,.308,23.0,83.0,3.8,5.8,-2.0
 8,Chicago Giants,5,31,0,.139,26.0,104.0,3.5,6.0,-2.5
+
+1915 FL Season:
 Federal League Detailed Standings
 Rk,Tm,W,L,W-
 L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,ExInn,1Run,vRHP,vLHP,≥.50
@@ -58,6 +56,8 @@ L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,ExInn,1Run,vRHP,vLHP,≥.50
 3,17-24,43-46,27-36,46-64,24-18
 8,Baltimore Terrapins,47,107,.305,40.0,240.0,3.6,4.9,-1.4,0.2,-1.2,55-99,-8,24-51,23-56,4-
 13,15-31,39-85,8-22,32-78,15-29
+
+1890 PL Season:
 Players League Detailed Standings
 Rk,Tm,W,L,W-
 L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
@@ -78,6 +78,8 @@ L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
 14,41-58,11-12,39-59,16-16
 8,Buffalo Bisons,36,96,.273,46.5,240.0,5.9,8.9,-3.0,0.4,-2.6,42-90,-6,23-42,13-54,5-9,18-
 59,14-34,24-74,12-22
+
+1890 AA Season:
 American Association Detailed Standings
 Rk,Tm,W,L,W-
 L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
@@ -100,6 +102,8 @@ L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
 42,13-16,33-51,14-22,32-67,22-11
 9,Brooklyn Gladiators,26,73,.263,45.5,211.0,4.9,7.3,-2.4,0.2,-2.2,32-67,-6,15-22,11-
 50,12-14,14-49,9-14,19-50,7-22
+
+1885 AA Season:
 American Association Detailed Standings
 Rk,Tm,W,L,W-
 L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
@@ -120,6 +124,8 @@ L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
 40,11-10,28-52,7-7,18-29,26-35
 8,Baltimore Orioles,41,68,.376,36.5,108.0,4.9,6.2,-1.3,0.2,-1.1,43-66,-2,29-26,12-42,9-
 17,27-48,4-10,14-34,27-34
+
+1875 NA Season:
 National Association Detailed Standings
 Rk,Tm,W,L,W-
 L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
@@ -150,6 +156,8 @@ L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
 40,0-0,0-32,2-10
 13,Keokuk Westerns,1,12,.077,37.0,100.5,3.5,6.8,-3.3,-1.0,-4.3,3-10,-2,1-7,0-5,0-3,1-10,0-
 0,0-5,1-7
+
+1871 NA Season:
 National Association Detailed Standings
 Rk,Tm,W,L,W-
 L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
