@@ -172,7 +172,6 @@ L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.50
 9,Rockford Forest Citys,4,21,.160,15.5,76.5,9.2,11.5,-2.2,0.1,-2.2,10-15,-6,3-4,1-17,0-5,3-
 19,1-2,0-12,4-9
 
-
 1876 NL
 Rk,Tm,W,L,W-L%,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,1Run,vRHP,vLHP,≥.500,<.500
 1,Chicago White Stockings,52,14,.788,9.5,3.9,5.6,-0.7,4.9,55-11,-3,25-6,27-8,4-6,52-14,0-0,19-11,33-3
@@ -412,7 +411,6 @@ Rk,Tm,W,L,W-L%,GB,GBsum,R,RA,Rdiff,SOS,SRS,pythWL,Luck,Home,Road,ExInn,1Run,vRHP
 8,Boston Braves,38,115,.248,61.5,308.0,3.8,5.6,-1.8,0.2,-1.6,50-103,-12,25-50,13-65,1-7,7-31,32-93,6-22,14-73,24-42
 
 1935 NNL 2 
-
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Pittsburgh Crawfords,51,27,3,.654,--,,7.1,5.1,2.0
 2,New York Cubans,31,25,5,.554,9.0,9.0,4.9,4.8,0.1
@@ -421,7 +419,6 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 5,Brooklyn Eagles,32,31,0,.508,11.5,18.5,5.9,5.9,0.1
 
 1940 NNL 2
-
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Homestead Grays,36,20,0,.643,--,,5.9,4.8,1.1
 2,Baltimore Elite Giants,32,23,0,.582,3.5,3.5,6.4,5.5,1.0
@@ -431,7 +428,6 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 6,New York Cubans,13,26,1,.333,14.5,39.0,4.9,5.7,-0.8
 
 1940 NNL
-
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Kansas City Monarchs,36,11,3,.766,--,,6.0,3.7,2.3
 2,Memphis Red Sox,36,26,0,.581,7.5,7.5,4.1,4.6,-0.5
@@ -442,8 +438,6 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 7,Toledo/Indianapolis Crawfords,6,18,1,.250,18.5,42.5,3.5,4.0,-0.5
 
 1945 NNL 2
-
- 
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Homestead Grays,41,21,2,.661,--,,5.4,3.8,1.6
 2,Newark Eagles,27,22,0,.551,7.5,7.5,4.6,5.1,-0.5
@@ -453,7 +447,6 @@ Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 6,New York Black Yankees,11,28,0,.282,18.5,51.0,4.3,6.0,-1.8
 
 1945 NNL
-
 Rk,Tm,W,L,Ties,W-L%,GB,GBsum,R,RA,Rdiff
 1,Cleveland Buckeyes,63,17,1,.787,--,,4.9,2.9,2.0
 2,Kansas City Monarchs,52,41,3,.559,17.5,19.0,5.2,4.5,0.7
