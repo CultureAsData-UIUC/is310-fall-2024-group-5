@@ -50,6 +50,7 @@ Weaknesses:
 - Data collection started in 1871 and leagues could have existed before then
 - The dataset does not have contextual factors such as rule changes or other events that have changed teh game significantly
 - There is no player level stats to do in depth individual analysis
+
 Potential Applications:
 - Data can be used to predict trends and how leagues and stats will look in the future:
 - For example as we can see from a quick and basic analysis, things like Hits (H), and Runs (R), continue to rise over time and even though they take a few recent dips, generally seaking, those numbers continue to rise and will likely stay on the same trajectory as the game and technology evolves
