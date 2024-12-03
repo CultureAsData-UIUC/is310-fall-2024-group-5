@@ -38,7 +38,7 @@ By combining records from different sources, leagues, and eras, we can observe d
 - We can examine the amount parameters recorded in any given year between the Major League Baseball (MLB) and National Negro League (NNL). 
 - Similarly, we can compare the amount of missing values between leagues. 
 
-### Future Use (TO BE COMPLETED)
+### Future Use
 Strengths:
 - No dataset exists with all of the data we have collected in the format we have it in
 - The dataset includes varibales and statistics from many major leagues and not just the MLB and contains an exhaustive amount of statistics
