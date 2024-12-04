@@ -42,14 +42,17 @@ By combining records from different sources, leagues, and eras, we can observe d
 Strengths:
 - No dataset exists with all of the data we have collected in the format we have it in
 - The dataset includes varibales and statistics from many major leagues and not just the MLB and contains an exhaustive amount of statistics
-- The dataset includes the missing_value_count whichc allow future users to see any areas that may need t be excluded or reworked for future analysis
+- The dataset includes the missing_value_count which allow future users to see any areas that may need t be excluded or reworked for future analysis
 
 Weaknesses:
 - Missing things like Mexican Baseball League (LMB) and likely other leagues' stats as they are not available on baseball reference
 - Data was taken every 5 years but there are likley leagues that existed for less than that time
 - Data collection started in 1871 and leagues could have existed before then
-- The dataset does not have contextual factors such as rule changes or other events that have changed teh game significantly
+- The dataset does not have contextual factors such as rule changes or other events that have changed the game significantly
 - There is no player level stats to do in depth individual analysis
+- Practices of how to record statistics have changed over time in the MLB which is described more thouroughly in the article below:
+ '<https://sabr.org/journal/article/all-the-record-books-are-wrong/>'  
+For example, for a starting pitcher to qualify for a win in today's MLB, a starting pitcher must pitch at least 5 innings in the game, and after the pitcher exits the game, his/her team must not give up the lead the pitcher had when he/she exited. This is different from how the win stat used to be given. As described in the article, the first practice that was used from (1876-1904) for pitching wins was that if a starting pitcher left the game with the lead and the lead was never given up the rest of the game, they would receive the win. This differs from today's practice of the starting pitcher having to pitch at least 5 innings to receive a win. What this article describes is that some record books wrongly gave pitchers wins based on the current times practices and not the practices of when the pitchers played. This is a weakness because some rulebooks may be wrong to due incorrectly retroactively recording statistics.
 
 Potential Applications:
 - Data can be used to predict trends and how leagues and stats will look in the future:
