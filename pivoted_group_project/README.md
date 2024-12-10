@@ -25,10 +25,16 @@ Our previous dataset was lacking magnitude, depth, and context. So, we made a fe
 
     - Minimal cleaning and filtering
 
+In addition, we cultivated a second dataset to represent the humanties-side of the history of baseball. 
+
+    - Used the Chronicling America API with the Requests library to collect information regarding the reporting of baseball leagues over time
+
 
 ## Dataset Utility
 
 By combining records from different sources, leagues, and eras, we can observe differences in how data was recorded and kept between leagues and over time.
+
+The Chronicling America data can be used to examine the times, geographical locations, as well as specific newspapers that reported on various leagues.
 
 ### Examining Data
 - We can examine the variables used to measure performance between different leagues; is it true that less popular leagues performed worse?
