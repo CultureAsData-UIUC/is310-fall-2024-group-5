@@ -24,7 +24,6 @@ The dataset we created comprises archival newspaper articles from the Chroniclin
 ### Challenges faced
 
 - Ensuring all entries were relevant to the chosen league
-- Manual verification of URLs and publication details, which was time-consuming
 - Had to work through thousands of pages of data
 
 
@@ -46,7 +45,6 @@ This project illuminated the critical role of historical newspapers in shaping a
 ### Limitations
 
 - The dataset's reliance on Chronicling America excludes articles from other archives, limiting comprehensiveness.
-- Some URLs were inconsistent or broken, posing challenges for verification.
 - Some names were mentioned in newspapers not referring to the actual league
 - Statiscal datasets do not include context of rule changes that occured
 - Some leagues had the same name as leagues that came before them
