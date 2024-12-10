@@ -59,6 +59,7 @@ Weaknesses:
 - Practices of how to record statistics have changed over time in the MLB which is described more thouroughly in the article below:
  '<https://sabr.org/journal/article/all-the-record-books-are-wrong/>'  
 For example, for a starting pitcher to qualify for a win in today's MLB, a starting pitcher must pitch at least 5 innings in the game, and after the pitcher exits the game, his/her team must not give up the lead the pitcher had when he/she exited. This is different from how the win stat used to be given. As described in the article, the first practice that was used from (1876-1904) for pitching wins was that if a starting pitcher left the game with the lead and the lead was never given up the rest of the game, they would receive the win. This differs from today's practice of the starting pitcher having to pitch at least 5 innings to receive a win. What this article describes is that some record books wrongly gave pitchers wins based on the current times practices and not the practices of when the pitchers played. This is a weakness because some rulebooks may be wrong to due incorrectly retroactively recording statistics.
+-We were never able to import data from a seperate statistics website call Baseball Savant due to how time consuming the process was.
 
 Potential Applications:
 - Data can be used to predict trends and how leagues and stats will look in the future:
