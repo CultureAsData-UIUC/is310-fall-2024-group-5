@@ -21,7 +21,7 @@ The dataset we created comprises archival newspaper articles from the Chroniclin
 - Extracting the metadata for each entry, including date and source.
 - Organizing the information into a structured table.
 
-### Challenges faces
+### Challenges faced
 
 - Ensuring all entries were relevant to the chosen league
 - Manual verification of URLs and publication details, which was time-consuming
@@ -38,15 +38,22 @@ This project illuminated the critical role of historical newspapers in shaping a
 
 - Valuable insights into regional and temporal dynamics of media coverage.
 - Computational methods can enrich historical research.
+- Filtering issues and examples (American Association) which only existed for 10 years but  had thousands of pages
+- We can continue to develop the dataset by adding more archives and sources. We can also study more leagues
+- Overall, we learned that it is not an easy process but we were able to overcome obstacles and get it done
+
 
 ### Limitations
 
 - The dataset's reliance on Chronicling America excludes articles from other archives, limiting comprehensiveness.
 - Some URLs were inconsistent or broken, posing challenges for verification.
+- Some names were mentioned in newspapers not referring to the actual league
 
 ### Future Directions
 
 - Expand the dataset by incorporating other archives and sources.
 - Conduct deeper text analysis to explore themes and narratives in the articles.
 - Collaborate with historians to contextualize the findings within broader historical frameworks.
+- Predict popularity of leagues within media based on current trends
+
 
