@@ -68,7 +68,8 @@ Potential Applications:
 - Similarly to predicting trends, stats over different eras can be compared to identify impacts on the game for example the steroid era
 - Other Visualization and Causality Models:
 - In the future, any variables can be tested against each other or over time to see how they affect one another and how the variables change over time
-## Computational Methods (TO BE COMPLETED)
+## Computational Methods    
+- **Named Entity Recognition**: We initially wanted to perform sentiment analysis on the articles collected through Chronicling America. However, the data is extremely unstructured and inconsistent in size. Therefore, we opted to create word bubbles instead. Word bubbles in general produced un-insightful results, so we chose to collect words for word bubbles that were proper nouns (names, places, etc). We wanted to use NLP for this, however there were issues with the latest Python version. Therefore, we opted to use simple Regex.
 
 
 ## Division of Labour
