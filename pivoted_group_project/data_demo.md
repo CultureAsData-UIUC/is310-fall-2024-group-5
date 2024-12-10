@@ -29,7 +29,7 @@ The dataset we created comprises archival newspaper articles from the Chroniclin
 
 
 ## Experimentation Results
-Going over the notebook
+- Going over the notebook
 
 ## Refelction and Future Direction
 This project illuminated the critical role of historical newspapers in shaping and preserving the legacy of several professional leagues. The process enhanced our understanding of how media reflected and influenced societal attitudes.
