@@ -48,6 +48,10 @@ This project illuminated the critical role of historical newspapers in shaping a
 - The dataset's reliance on Chronicling America excludes articles from other archives, limiting comprehensiveness.
 - Some URLs were inconsistent or broken, posing challenges for verification.
 - Some names were mentioned in newspapers not referring to the actual league
+- Statiscal datasets do not include context of rule changes that occured
+- Some leagues had the same name as leagues that came before them
+- Leagues such as the MBL or Mexican Baseball League do not have their statistics in baseball reference
+- Statistics may have been incorrectly retroactively recorded
 
 ### Future Directions
 
