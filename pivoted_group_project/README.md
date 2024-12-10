@@ -86,3 +86,7 @@ Potential Applications:
 - **Data Visualization:** worked together to create accurate, clean visualiztions displaying our data that we have collected and cleaned.
 
     - **Yosef, Kohta, and Ethan** worked to create graphs and models to display. saved in our "exploration_manipulation" and titled `metadata_over_time.ipynb`.
+
+- **Future Use:** worked together to analyze our dataset and find out its limitations and unique aspects
+
+    - **Sam and Jason** completed the future use section documenting the strengths, weaknesses, and futre applications
