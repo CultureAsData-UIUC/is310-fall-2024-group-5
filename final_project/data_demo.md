@@ -55,5 +55,9 @@ This project illuminated the critical role of historical newspapers in shaping a
 - Conduct deeper text analysis to explore themes and narratives in the articles.
 - Collaborate with historians to contextualize the findings within broader historical frameworks.
 - Predict popularity of leagues within media based on current trends
+- We could analyze the geographical location in newspaper data.
+- We could perform sentiment analysis (and many other types of analysis on the text in the newspaper if we spent the time
+- We could also perform statistical analysis on the baseball statistics data
+
 
 
