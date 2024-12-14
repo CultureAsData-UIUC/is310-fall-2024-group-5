@@ -1,1 +1,39 @@
+# Group 5 Data Essay
+
+- CONTENT: 
+  - Narrative - Nick
+    - The project originally started as a research project into how statistics influenced sports betting on baseball. As the semester progressed, it was decided that this idea was way too one dimensional with little to no literature related to it. After this realization, Ethan suggested that we collect data from every league over the years to see the change of missing data sections and the differences of missing data sections and recording between the other major leagues that have appeared over time. With this new dataset created, It focused on batting and pitching statistics in addition to league team rankings from every ~5 years since 1871. This allowed us to visualize the difference in statistics and missing statistics between different years and different leagues through data manipulation. Although this was much better than trying to determine how statistics influences sports betting, it still was not enough. The last piece added to our databases was a collection of articles related to reporting on baseball leagues. This was done through Chronicling America and the API they have to gather articles related to baseball leagues.
+
+  - Methodology – Yosef
+    - Once the data was collected, we used various data manipulation tools to clean and prepare it for analysis, handling missing values, standardizing formats, and ensuring consistency across different time periods and leagues. We employed statistical imputation methods where appropriate but often had to leave gaps to maintain data integrity. For data analysis and visualization, we used Python and its data science libraries, including Pandas for data manipulation and Matplotlib and Seaborn for visualization. For newspaper data, we used Altair to create interactive graphs, which helped us visualize the frequency of mentions and other trends effectively. Throughout the project, team members collaborated extensively, especially during class time, to refine our methods and ensure the quality of our data. We continuously revisited our methodologies to maximize the informational value of our project, ensuring that our data was accurate, relevant, and informative. By employing these methodologies, we were able to efficiently gather, analyze, and visualize our data, providing a solid foundation for our project and its objectives.
+
+  - Statistic Historical Context - Jason
+    - This graph displays the average number of missing values of the statistics that we compiled from baseball reference. Beginning with the National League in 1876, and later followed by the American Association in 1882. During this time statistics were mainly kept by hand so missing values were likely due to scorekeepers not fulfilling their responsibilities. The missing values are also due to some statistics simply not being tracked during the time. For example, the statistics: stolen bases, caught stealing, grounded into double plays, sacrifice hits, sacrifice flies, intentional walks, and runners left on base were all not tracked in the beginning of the American Association. These stats gradually began to be introduced into the leagues culminating in 1955 when all stats were finally introduced and tracked.
+
+  - Publication Historical Context – Sam
+    - The historical context of this data is that it is a bunch of newspaper pages that we found that mention specific professional baseball leagues. Overall, collecting this data shows us the evolution of sports media and baseball leagues over time as well as the role that newspapers can play as historical records. To collect our data, Ethan created a function which allowed us to search the entire newspaper API for whenever each league was mentioned. This would then be compiled into a new document which would have every single page of the newspaper that mentioned this specific league. We would then do this for all of the leagues that we are looking at and compare the number of times the leagues are mentioned over time. Additionally, we would be able to make a heat map using Altair in order to visualize the statistics and make them clearer to read. Some difficulties that we encountered when doing this was that some leagues like the American league and the National league have thousands of pages which takes a lot of time to run. We also continued to run into timeout errors with the API since we were all running the code and it would return an error eventually for everyone which required us to stop and take a break. This meant that it would take even more time than was initially anticipated. Another issue that we encountered is that some phrases seemed to appear a lot more than we would have expected. One example of this was the American Association which showed up as having 5000 pages but was a league which only existed for a few years. This did not add up, but we were able to filter the API by year and made the results more accurate.
+
+  - Complexities – Jason & Nick
+    - We had statistics from a different website called baseball savant, but we were never able to add it. The statistics from baseball reference took extremely long to transfer into datasets because we had to manually add in the data points. As a result, we did not have enough time to work on all of the data points from baseball savant, and we do not believe that those data points were extremely relevant. A lot of data was gathered through Baseball References by hand which took a fairly long time to complete despite only gathering data from every 5 years instead of every year. Additionally, the data needed extensive cleaning to make it usable for our project.
+
+- LABOR DIVISION
+  - Data Gathering: Yosef, Ethan, Nick, Kohta
+  - Data Analysis: Yosef, Ethan, Kohta
+  - Statistics: Yosef, Ethan, Jason
+  - Writing/Editing: Jason, Yosef, Sam, Nick, Kohta
+
+- PURPOSE
+  - Potential Uses - Sam
+    - The data that we collected can be used in many ways for many different purposes. In the present, the statistical data that we collected can be used to compare variable relationships and explore trends between two variables or a variable over time. It can also be used to predict future trends of the sport and use graphs to visualize which statistics will change over time. In the future, this data can be looked back on and seen how the game has evolved and what things have changed over time.
+
+  - Future Direction - Nick
+    - Expand the dataset by incorporating additional archives and sources to create a larger & more accurate dataset.
+    - Conduct deeper text analysis into the articles to explore themes and narratives in the articles.
+    - Collaborate with historians to contextualize the findings within a broader historical framework.
+
+  - Limitations & Considerations - Nick
+    - The project is heavily reliant on Chronicling America and Baseball Reference for the data.
+    - Is missing other smaller major leagues that weren’t gathered on Baseball Reference.
+    - Statistics from leagues were only gathered every 5 years.
+    - Recording practices for statistics have changed over time.
 
