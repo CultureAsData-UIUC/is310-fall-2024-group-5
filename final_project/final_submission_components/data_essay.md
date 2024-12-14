@@ -16,7 +16,7 @@
   - **Complexities – Jason & Nick**
     - We had statistics from a different website called baseball savant, but we were never able to add it. The statistics from baseball reference took extremely long to transfer into datasets because we had to manually add in the data points. As a result, we did not have enough time to work on all of the data points from baseball savant, and we do not believe that those data points were extremely relevant. A lot of data was gathered through Baseball References by hand which took a fairly long time to complete despite only gathering data from every 5 years instead of every year. Additionally, the data needed extensive cleaning to make it usable for our project.
 
-- ## LABOR DIVISION
+- ## LABOR DIVISION - Yosef
   - Data Gathering: Yosef, Ethan, Nick, Kohta
   - Data Analysis: Yosef, Ethan, Kohta
   - Statistics: Yosef, Ethan, Jason
