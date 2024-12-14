@@ -1,6 +1,6 @@
 # Group 5 Data Essay
 
-- ### CONTENT: 
+- ## CONTENT: 
   - **Narrative - Nick & Yosef**
     - The project originally started as a research project into how statistics influenced sports betting on baseball. As the semester progressed, it was decided that this idea was way too one dimensional with little to no literature related to it. After this realization, Ethan suggested that we collect data from every league over the years to see the change of missing data sections and the differences of missing data sections and recording between the other major leagues that have appeared over time. With this new dataset created, It focused on batting and pitching statistics in addition to league team rankings from every ~5 years since 1871. This allowed us to visualize the difference in statistics and missing statistics between different years and different leagues through data manipulation. Although this was much better than trying to determine how statistics influences sports betting, it still was not enough. The last piece added to our databases was a collection of articles related to reporting on baseball leagues. This was done through Chronicling America and the API they have to gather articles related to baseball leagues.
 
@@ -15,9 +15,13 @@
 
   - **Complexities – Jason & Nick**
     - We had statistics from a different website called baseball savant, but we were never able to add it. The statistics from baseball reference took extremely long to transfer into datasets because we had to manually add in the data points. As a result, we did not have enough time to work on all of the data points from baseball savant, and we do not believe that those data points were extremely relevant. A lot of data was gathered through Baseball References by hand which took a fairly long time to complete despite only gathering data from every 5 years instead of every year. Additionally, the data needed extensive cleaning to make it usable for our project.
----- 
-- ### LABOR DIVISION
+
+- ## LABOR DIVISION
   - Data Gathering: Yosef, Ethan, Nick, Kohta
   - Data Analysis: Yosef, Ethan, Kohta
   - Statistics: Yosef, Ethan, Jason
   - Writing/Editing: Jason, Yosef, Kohta, Sam, Nick
+
+
+- ## PURPOSE - Sam
+  - The data that we collected can be used in many ways for many different purposes. In the present, the statistical data that we collected can be used to compare variable relationships and explore trends between two variables or a variable over time. It can also be used to predict future trends of the sport and use graphs to visualize which statistics will change over time. In the future, this data can be looked back on and seen how the game has evolved and what things have changed over time.
