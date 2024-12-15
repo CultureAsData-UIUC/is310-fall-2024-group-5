@@ -14,7 +14,9 @@
     - Throughout the project, team members collaborated extensively, to identify which visualizations best covered the data in the areas that we wanted to examine. We continuously revisited our methodologies to maximize the informational value of our project, ensuring that our data was accurate, relevant, and informative. By employing these methodologies, we were able to efficiently gather, analyze, and visualize our data, providing a solid foundation for our project and its objectives.
 
   - **Statistic Historical Context - Jason**
-![alt text](images/avg_missing_values.png)
+
+    ![alt text](images/avg_missing_values.png)
+   
     - This graph displays the average number of missing values of the statistics that we compiled from baseball reference. Beginning with the National League in 1876, and later followed by the American Association in 1882. During this time statistics were mainly kept by hand so missing values were likely due to scorekeepers not fulfilling their responsibilities. The missing values are also due to some statistics simply not being tracked during the time. For example, the statistics: stolen bases, caught stealing, grounded into double plays, sacrifice hits, sacrifice flies, intentional walks, and runners left on base were all not tracked in the beginning of the American Association. These stats gradually began to be introduced into the leagues culminating in 1955 when all stats were finally introduced and tracked.
 
   - **Publication Historical Context – Sam**
