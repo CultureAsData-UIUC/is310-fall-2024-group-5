@@ -89,4 +89,4 @@ Potential Applications:
 
 - **Future Use:** worked together to analyze our dataset and find out its limitations and unique aspects
 
-    - **Sam and Jason** completed the future use section documenting the strengths, weaknesses, and futre applications
+    - **Sam, Kohta, and Jason** completed the future use section documenting the strengths, weaknesses, and futre applications
